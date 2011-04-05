@@ -1,0 +1,14 @@
+---
+layout: front
+title: Some Fiddle Tune
+---
+<ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">
+          <span class="date">{{ post.date | date_to_string }}</span>
+          <span class="title">{{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,56 @@
+* {
+   padding:0;
+   margin:0;
+   list-style:none;
+}
+
+body {
+   font-family:Georgia,serif;
+}
+
+h1 {
+   padding-bottom:15px;
+   border-bottom:1px solid #eee;
+   margin-bottom:15px;
+}
+h2 {
+   font-family:"Courier New",Courier,monospace;
+   font-weight:normal;
+   font-size:18px;
+}
+
+div#container {
+   width:500px;
+   margin:auto auto;
+   margin-top:25px;
+}
+
+ul.posts {
+   margin-top:75px;
+   width:75%;
+}
+
+ul.posts li {
+   display:block;
+   position:relative;
+}
+
+ul.posts a {
+   display:block;
+   display:block;
+   background:#eee;
+   padding:75px 25px 25px;
+   margin-bottom:1px;
+   position:relative;
+}
+
+ul.posts a span.date {
+   color:#888;
+   position:absolute;
+   top:25px;
+   left:25px;
+}
+
+ul.posts a span.title {
+   
+}

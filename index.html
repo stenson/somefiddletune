@@ -7,7 +7,8 @@ title: Some Fiddle Tune, Bro
       <li>
         <a href="{{ post.url }}">
           <span class="date">{{ post.date | date_to_string }}</span>
-          <span class="title">{{ post.title }}
+          <span class="title">{{ post.title }}</span>
+          <span class="tune">&ldquo;{{ post.tune }}&rdquo;</span>
         </a>
       </li>
     {% endfor %}

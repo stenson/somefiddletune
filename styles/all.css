@@ -12,6 +12,8 @@ h1 {
    padding-bottom:15px;
    border-bottom:1px solid #eee;
    margin-bottom:15px;
+   color:indianred;
+   letter-spacing:-5%;
 }
 h2 {
    font-family:"Courier New",Courier,monospace;
@@ -20,14 +22,13 @@ h2 {
 }
 
 div#container {
-   width:500px;
+   width:550px;
    margin:auto auto;
    margin-top:25px;
 }
 
 ul.posts {
    margin-top:75px;
-   width:75%;
 }
 
 ul.posts li {
@@ -37,20 +38,68 @@ ul.posts li {
 
 ul.posts a {
    display:block;
-   display:block;
    background:#eee;
-   padding:75px 25px 25px;
    margin-bottom:1px;
    position:relative;
+   text-decoration:none;
+   background:#777;
+   height:300px;
+   font-family:serif;
+}
+ul.posts a:hover {
+  opacity:0.8;
 }
 
-ul.posts a span.date {
-   color:#888;
+span.date {
+   color:white;
    position:absolute;
-   top:25px;
-   left:25px;
+   bottom:0px;
+   right:0px;
 }
 
-ul.posts a span.title {
-   
+span.title {
+   background:royalblue;
+   font-weight:bold;
+   color:white;
+   font-size:42px;
+   position:absolute;
+   left:0px;
+   top:0px;
+   border-bottom:3px solid white;
+   padding:3px;
+}
+
+span.tune {
+  position:absolute;
+  bottom:0px;
+  left:0px;
+  background:indianred;
+  color:white;
+  font-size:32px;
+  font-style:italic;
+  padding:3px;
+}
+
+div.home {
+  margin-bottom:125px;
+}
+div.home a {
+  border-bottom:5px solid dodgerblue;
+}
+
+div.post h1 {
+  font-family:Helvetica,Arial,sans-serif;
+}
+
+div.paragraphs {
+  width:80%;
+  margin-top:45px;
+}
+div.paragraphs p {
+  font-family:serif;
+  text-indent:25px;
+  font-size:16px;
+  line-height:25px;
+  color:#333;
+  margin-bottom:45px;
 }

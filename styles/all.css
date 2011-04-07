@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'CopseRegular';
+    src: url('/fonts/Copse-Regular-webfont.eot');
+    src: url('/fonts/Copse-Regular-webfont.eot?#iefix') format('eot'),
+         url('/fonts/Copse-Regular-webfont.woff') format('woff'),
+         url('/fonts/Copse-Regular-webfont.ttf') format('truetype'),
+         url('/fonts/Copse-Regular-webfont.svg#webfontWKqJmDgH') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 * {
    padding:0;
    margin:0;
@@ -5,16 +16,22 @@
 }
 
 body {
-   font-family:Georgia,serif;
+  font-family:CopseRegular,Georgia,serif;
 }
 
 h1 {
-   padding-bottom:15px;
-   border-bottom:1px solid #eee;
-   margin-bottom:15px;
-   color:indianred;
-   letter-spacing:-5%;
+  padding-bottom:15px;
+  border-bottom:1px solid #eee;
+  margin-bottom:15px;
+  color:indianred;
+  letter-spacing:-5%;
 }
+h1.bigtitle {
+  margin-top:45px;
+  font-size:42px;
+  color:#555;
+}
+
 h2 {
    font-family:"Courier New",Courier,monospace;
    font-weight:normal;
@@ -44,7 +61,6 @@ ul.posts a {
    text-decoration:none;
    background:#777;
    height:300px;
-   font-family:serif;
 }
 ul.posts a:hover {
   opacity:0.8;
@@ -71,12 +87,11 @@ span.title {
 
 span.tune {
   position:absolute;
-  bottom:0px;
+  top:65px;
   left:0px;
-  background:indianred;
+  background:deepskyblue;
   color:white;
   font-size:32px;
-  font-style:italic;
   padding:3px;
 }
 
@@ -84,22 +99,24 @@ div.home {
   margin-bottom:125px;
 }
 div.home a {
+  font-size:24px;
+  text-decoration:none;
+  color:#555;
   border-bottom:5px solid dodgerblue;
 }
 
 div.post h1 {
-  font-family:Helvetica,Arial,sans-serif;
 }
 
 div.paragraphs {
   width:80%;
   margin-top:45px;
+  font-family:serif;
 }
 div.paragraphs p {
-  font-family:serif;
   text-indent:25px;
   font-size:16px;
   line-height:25px;
   color:#333;
-  margin-bottom:45px;
+  margin-bottom:25px;
 }

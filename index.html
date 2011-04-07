@@ -1,11 +1,11 @@
 ---
 layout: front
-title: Some Fiddle Tune, Bro
+title: Some Fiddle Tune
 ---
 <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">
+        <a href="{{ post.url }}" style='background-image:url(/images/{{ post.image }})'>
           <span class="date">{{ post.date | date_to_string }}</span>
           <span class="title">{{ post.title }}</span>
           <span class="tune">&ldquo;{{ post.tune }}&rdquo;</span>

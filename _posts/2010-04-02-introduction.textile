@@ -2,30 +2,44 @@
 layout: post
 title: "Introduction"
 tune: "Old Molly Hare"
-subhead: "What on earth is this site?"
 image: "tommy.jpg"
+caption: "Tommy Jarrell, fiddle-dude"
 ---
+
+<span>What on earth is this site?</span>
 
 Some Fiddle Tune is a collection of interviews with — and solo performances by — people who play fiddle tunes.
 
 That might be a confusing description. Who are these people exactly? They are not necessarily fiddlers (though some of them are), and they do not _only_ play fiddle tunes (though some may play nothing else). The musicians I'd like to interview may not even be full-time musicians. But they do all have one thing in common: they feel right at home with an instrument in hand and a familiar question posed: "What tune should we play next?"
 
-But all that begs another question: what on earth is a fiddle tune? Probably there are people out there who have really specific definitions and a check-list for what must exist in order for a tune to blah blah blah.......
+<div id="tunebox">
+  
+  <span>"Old Molly Hare" is a tune I learned from my dad, though he never sang any lyrics with it. This is me (Rob Stenson) playing it on my <a href="#">Enoch Tradesman</a> banjo. It's half-fretted, but I don't think I used any of the frets here.</span>
+  
+</div>
 
-A fiddle tune on this website is just a little melody, an old tune.
+<span>But what on earth is a fiddle tune?</span>
+
+Probably there are people out there who have really specific definitions and a check-list for what must exist in order for a fiddle tune to be a fiddle tune blah blah blah.......
+
+A fiddle tune on this website is just a little melody, probably old (could be real old), but not necessarily.
 
 If you're playing a fiddle tune, you're probably holding a fiddle, or a banjo, or a guitar, or a mandolin I suppose, or a bass fiddle, or maybe a Chinese fiddle, or a synthesizer, or even just plain singing. To be honest, it could be any instrument, as long as you know how to play it.
 
-Whatever the instrument, the moment before you play a tune must be universal: right when you're ready to start playing you can kind of feel the tune's first few notes in your fingers.
+Sometimes these tunes don't have a name, sometimes they have too many. Sometimes two tunes share one name and no notes. Sometimes parts of tunes show up in other tunes, one tune cross-pollinated with another by a forgetful fiddler. (Tunes are flowers attracting pickers? Could be a good metaphor.)
 
-In fact, those few notes might be the whole tune — sometimes these tunes don't have a name, sometimes they have too many. Sometimes two tunes share one name and nothing else. Sometimes parts of tunes show up in other tunes, spliced-in by a forgetful fiddler. There's a whole shadowy evolution to their .
+In any event, pickers are pretty sure they know where they picked up the tune they're about to play. Or not. No big deal. Nobody cares if you get it all note for note, nobody agrees on the notes anyhow. There are a million versions out there, one from Indiana or Kentucky, one from San Antonio or St. Louis, Montreal or Maine. Maybe your dad was the only person you ever heard play it quite that way and you've got absolutely no idea where he the hell he picked it up. Maybe you just heard it on a CD or a TV show — not everyone can be descended from tune-bred mountaineers. (I know I wasn't.)
 
-Whatever the name, you're pretty sure you know where you picked up the tune. Or not. No big deal. Nobody cares if you get it all note for note, nobody agrees on the notes anyhow. There are a million versions out there, one from Indiana or Kentucky, one from San Antonio or St. Louis, Montreal or Maine, Danville or Dublin. Maybe your dad was the only person you ever heard play it quite that way and you've got absolutely no idea where he the hell he picked it up. Maybe you just heard it on a CD or a TV show — not everybody can be descended from tune-bred mountaineers. (I know I wasn't.)
+<span>What kind of music is this exactly?</span>
 
-In general, I'm thinking of so-called “old-time” music that comes from more southern and eastern states, but also comes from wherever there are fiddlers or banjo players or pickers of any kind. Canada, Ireland, Scotland, Norway, Sweden, Turkey, Iran, Mongolia, Vietnam, China.
+I'm thinking of so-called “old-time” stuff that comes from more southern and eastern states, but also comes from wherever there are fiddlers or banjo players or pickers of any kind. Canada, Ireland, Scotland, Norway, Sweden, Turkey, Iran, Mongolia, Vietnam, China.
 
-Fiddle tunes can come from anywhere! (For me, fiddle tunes don't require any fiddle). All they require is a tradition of people sharing, learning, remembering — collecting tunes the way some people collect stamps.
+Fiddle tunes can come from anywhere! All that's required is a tradition of people sharing, learning, remembering — collecting tunes the way some people collect stamps. Obviously the "fiddle" in "fiddle tunes" is a misnomer; to me it's just a general term — I grew up listening to my dad play "fiddle" tunes on banjo, so I've never had strong associations between fiddles and fiddle tunes.
 
-So what is Some Fiddle Tune? It's a collection of interviews with people who “collect” these kinds of tunes. As a bonus, I'll ask the interviewees to share a solo recording of one of their prized melodies.
+<span>Could we go over this one more time?</span>
+
+Some Fiddle Tune is a collection of interviews with people who "collect" these kinds of tunes. As a bonus, I'll ask the interviewees to share a solo recording of one of their prized melodies.
+
+To be honest, this site is really just a collection of interviews with people I'd like to interview, and the people I'd like to interview play tunes of some kind — not just stuff from the mountains or the stage of the Grand Ol' Opry, but from wherever the picker knows a familiar feeling: right when you're ready to start playing you feel the tune's first few notes in your fingers, and maybe a fragment in your head.
 
 If you still have any questions, consult at random this list of youtube videos to get an idea of what I mean.
